@@ -27,6 +27,7 @@ Trim = input(f"Yes or No:   ")
 print()
 print(f"Upgrade {Trim} ")
 
+
 #User chooses Exterior Color
 print()
 print("PLEASE CHOOSE COLOR")
@@ -69,7 +70,5 @@ print(f"Model Choice {ModelChoice}")
 print(f"Color choice {Color}")
 print(f"Choice of Entertainment Pacage was {EntPgk}")
 print(f"Customer wants {Warranty}")
-print(
-  "Thank you for your selection, we will contact you when your vehicle is available.  Thank your for shopping Seabrooks Luxury Auto Mall"
-)
+print("Thank you for your selection, we will contact you when your vehicle is available.  Thank your for shopping Seabrooks Luxury Auto Mall")
 print("=====================================================")
